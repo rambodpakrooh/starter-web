@@ -11,3 +11,6 @@ Sample website with plenty of files for demos. dkvnadflkvnlsnvl
 ## Deployment
 Anywhere
 ## How to Contribute
+
+### Copyright
+Git.Training
