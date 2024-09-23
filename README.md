@@ -12,5 +12,7 @@ Sample website with plenty of files for demos. dkvnadflkvnlsnvl
 Anywhere
 ## How to Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 Git.Training
