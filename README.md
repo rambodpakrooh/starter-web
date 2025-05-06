@@ -15,4 +15,4 @@ Anywhere
 Please fork this repository and then issue pull requests for review. Thanks!
 
 ### Copyright
-2025 Git.Training. All rights reserved.
+2025 Git.Training. All rights reserved!
